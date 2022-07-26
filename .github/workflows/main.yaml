@@ -12,5 +12,5 @@ jobs:
           project_id: website-356714
           image_name: tictactoe
           image_tag: latest,v1
-          dockerfile: ./
-          context: ./
+          dockerfile: ./Dockerfile
+          context: .
