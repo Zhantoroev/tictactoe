@@ -11,6 +11,6 @@ jobs:
           registry: gcr.io
           project_id: website-356714
           image_name: tictactoe
-          image_tag: latest,v1
+          image_tag: latest,v2
           dockerfile: ./Dockerfile
           context: .
